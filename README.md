@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Nandhakumar+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Nandhakumar+%F0%9F%91%8B;AI%2FML+Developer+%F0%9F%A4%96;Python+%F0%9F%90%8D;Building+%26+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,10 +12,12 @@
 
 ## 👋 About Me
 
-🎓 Student & aspiring ai/ml engineer
-💻 Interested in programming and problem solving  
-🔨 Learning by building practical projects  
-🌱 Improving my skills one project at a time  
+🎓 Student & AI/ML Developer  
+🤖 Interested in Artificial Intelligence & Machine Learning  
+🐍 Python enthusiast  
+💻 Passionate about programming and problem solving  
+🔨 Building practical projects  
+🌱 Always improving my skills  
 
 ---
 
