@@ -53,16 +53,8 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nandhakumar3663-afk&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
