@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-🎓 Student & aspiring developer  
+🎓 Student & aspiring ai/ml engineer 
 🐍 Working with Python  
 💻 Interested in programming and problem solving  
 🔨 Learning by building practical projects  
