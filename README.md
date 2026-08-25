@@ -6,7 +6,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nandhakumar3663-afk/>
-</p>
+</p
+
+<hr>
 
 ---
 
